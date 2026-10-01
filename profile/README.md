@@ -12,6 +12,10 @@ Cited search will return a source span or refuse when evidence is missing. Read-
 
 A desktop app and Cloud support for shared team context are planned. Neither is available today.
 
+## Citadel and Noesora
+
+[@sarthib7](https://github.com/sarthib7) built [Citadel](https://github.com/Noesora/Citadel) before Noesora. Noesora continues that work on source-backed project memory as a separate local-first product. The Citadel fork remains public, and we plan to keep developing it too.
+
 ## For developers
 
 [noesora-cli](https://github.com/Noesora/noesora-cli) is the public command-line repository, licensed under Apache-2.0. Its vault engine is private. A source build of the CLI currently needs that engine, so there is no public install path yet.
