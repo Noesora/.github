@@ -20,4 +20,6 @@ A desktop app and Cloud support for shared team context are planned. Neither is 
 
 [noesora-cli](https://github.com/Noesora/noesora-cli) is the public command-line repository, licensed under Apache-2.0. Its vault engine is private. A source build of the CLI currently needs that engine, so there is no public install path yet.
 
+The [product architecture map](https://noesora.xyz/architecture) shows the local path and labels unreleased interfaces. It does not show a live link from local records to Cloud.
+
 You can follow development in the CLI repository. The status above will change as commands and releases land.
